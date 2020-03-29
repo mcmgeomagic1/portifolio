@@ -1,0 +1,243 @@
+/*--------------------------------------------------*/
+/* Big tablets to 1200px (widths smaller that the 1140px row)*/
+/*-------------------------------------------------*/
+@media only screen and (max-width: 1200px) {
+	div#skills ul{padding-left: 25px;}
+    span#grande2 {font-size: 60pt;margin-left: 55px;}
+    div#advices ul {
+    	width: 95%;
+    	height: 300px;		
+    	padding: 20px 0px 20px 20px;
+    	margin-left: 35px;
+    }
+    div#advices li{
+    	margin: 50px 0px 20px 0px;
+    	width: 90%;
+    }
+    
+
+   div#galery li{width: 260px;height: 350px;}
+   div#galery figure {height:250px;}    
+   div#galery figure figcaption {
+	position: absolute;
+	margin-top:250px;
+   }
+
+}
+
+
+
+/*--------------------------------------------------*/
+/* Small tablets to big tablets: from 768px to 1023px; */
+/*-------------------------------------------------*/
+@media only screen and (max-width: 1023px) {
+	body {font-size: 18px;}
+
+}
+
+
+
+/*--------------------------------------------------*/
+/* Small phones to small tablets: from 481 to 767px; */
+/*-------------------------------------------------*/
+@media only screen and (max-width: 767px) {
+	body{font-size: 16px;}
+	header {padding-top: 50px;}
+	div#slogan{text-align: center;}
+    nav#navegation ul{
+     float: none;
+	margin: 30px ;
+	
+    }
+    header figure{
+	width: 440px;
+	height: 560px;
+	display: grid;
+	margin: auto;
+	position: relative;
+   }
+   span#grande{
+	font-size: 50pt;
+   }
+   header figure figcaption h1{
+	font-size: 12pt;
+	animation: texto 2s 1;
+   }
+   iframe#menuprof {width: 100%;}
+   ul#prof li {
+	width: 50%;
+	padding: 20px;
+	margin: 10px 10px;
+
+}
+ul#prof img {
+	width: 30px;
+	height: 30px;
+}
+
+div#whoamI {
+	letter-spacing: px;
+	padding-right: 20px;
+	margin: 80px 10px 0px 10px;
+	max-width:480px;
+	height: 410px;
+	display: inline-block;
+	grid-template-columns: none;
+	
+} 
+div#whoamI figure{
+	width: 50%;
+	height: 50%;
+    float: left;
+    margin-right: 70px;
+    margin-bottom: 0px;
+
+}
+section#description span {
+	margin-bottom: 0px;
+	opacity: 0.8;
+	display: block;
+	margin-top: 40px;
+	margin-right: 0px;
+	margin-left: 30px;
+}
+div#whoamI figure{
+
+	display: none;
+	width: 50%;
+	height: 50%;
+    float: center;
+    margin-right: 70px;
+    margin-bottom: 0px;
+
+}
+iframe#showprof {
+	width: 100%;
+	height: 590px;
+	margin-left: 0px;
+	margin-top: -10px;
+    border: solid 0px black;
+
+}
+span#grande2 {
+	font-size: 40pt;
+	margin: 0 auto;
+	text-align: center;
+}
+div#tudoskills {
+	text-align: center;
+}
+div#skills ul{
+   
+   padding-left: 165px;
+   color: #597287;
+   margin: 0px;
+   display: block;
+   border: 1 solid black;
+   width:70%;
+}
+div#skills li{
+    font-size: 15pt;
+	width: 203px;
+	
+	padding: 30px 20px 40px 10px;
+	color: white;
+	border: 5px solid white;
+    text-align: center;
+	list-style: none;
+	margin: ;
+	display: grid;
+	margin: 20px 0px 80px 0px;
+
+}
+div#skills {
+	margin-top: -1px;
+	height: auto;
+	padding-bottom: 5px;
+}
+div#advices {
+	
+}
+div#advices{
+	padding-top: 70px;
+	padding-bottom: 70px;
+	height: 900px;
+	text-align: center;
+}
+div#advices ul {
+	margin: 0 auto;
+	width: 80%;
+	height: 300px;		
+  display: block;
+  padding: 20px auto;
+
+}
+div#advices li{
+	margin: 40px 0px 0px 0px;
+    width: 90%;
+    height: 60%;
+}
+div#galery{
+	margin-top: -20px;
+	padding-top: 110px;
+}
+span#pequeno {
+	font-size: 40pt;
+}
+div#galery ul {
+	 display: grid;
+	 height: auto;
+	 width: 80%;
+	 margin-top: 70px;
+	 grid-template-columns: repeat(2,auto);
+	 padding-right: 20px;
+ 
+}
+div#galery li{
+
+    
+    font-size: 12pt;
+	width: 230px;
+	height: 280px;
+	margin:0px 20px 150px 0px;
+}
+div#galery figure {
+    position: relative;
+	border: 0px solid;
+	width: 100%;
+	height:280px;
+
+}
+footer {
+	text-align: center;
+	padding-top: 60px;
+	padding-bottom: 20px;
+}
+
+footer ul{
+	border: 0px solid black;
+	margin: 0 auto;
+	width: 50%;
+    display: block;
+}
+footer ul li {
+	list-style: none;
+	margin-bottom: 60px;
+}
+
+footer ul figure#contacts {
+	margin: 20px 0px 0px 0px ;
+}
+footer ul figure#contacts img {
+	margin-right: 10px;
+	width: 30px;
+	opacity: 0.7;
+}
+}
+
+/*--------------------------------------------------*/
+/* Small phones: from 0 to 480px */
+/*-------------------------------------------------*/
+@media only screen and (max-width: 480px) {
+
+}
