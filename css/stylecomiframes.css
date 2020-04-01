@@ -2,14 +2,14 @@
 	margin: 0px;
 	padding: 0px;
 }
-@import url('https://fonts.googleapis.com/css?family=Baloo+Thambi+2&display=swap');
+@import url('href="https://www.1001fonts.com/jmh-ava-font.html?text=Maxion+Kiddies');
 body,html {
 	background-color: #597287;
 	max-width: 100%;
 	max-height: 100%;
 	padding: 0;
 	margin: 0;
-	font-family:  'Baloo Thambi 2', cursive;
+	font-family:  JMHAva-Regular;
 	color: #597287;
 	overflow-x: hidden;
 }
@@ -19,7 +19,7 @@ html#menuprof, body#menuprof {
 	max-height: 100%;
 	padding: 0;
 	margin: 0;
-	font-family: JMH ava;
+	font-family: JMHAva-Regular;
 	color: #597287;
 	overflow-y: hidden;
 }
@@ -29,7 +29,7 @@ html#showprof, body#showprof {
 	max-height: 100%;
 	padding-top: 0px;
 	margin: 0;
-	font-family: 'Baloo Thambi 2', cursive;
+	font-family:JMHAva-Regular;
 	color: #597287;
 }
 html#whoamIpages, body#whoamIpages {
@@ -39,7 +39,7 @@ html#whoamIpages, body#whoamIpages {
 	max-height: 100%;
 	padding: 0;
 	margin: 0;
-	font-family: 'Baloo Thambi 2', cursive;
+	font-family: JMHAva-Regulare;
 	color: #597287;
 }
 
