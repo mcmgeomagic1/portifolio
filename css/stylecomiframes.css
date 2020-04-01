@@ -3,10 +3,6 @@
 	padding: 0px;
 }
 @import url('https://fonts.googleapis.com/css?family=Baloo+Thambi+2&display=swap');
-@font-face{
-	font-family: 'Baloo Thambi 2', cursive;
-}
-<link media="all" rel="stylesheet" type="text/css" >
 body,html {
 	background-color: #597287;
 	max-width: 100%;
@@ -33,7 +29,7 @@ html#showprof, body#showprof {
 	max-height: 100%;
 	padding-top: 0px;
 	margin: 0;
-	font-family: JMH ava;
+	font-family: 'Baloo Thambi 2', cursive;
 	color: #597287;
 }
 html#whoamIpages, body#whoamIpages {
@@ -43,7 +39,7 @@ html#whoamIpages, body#whoamIpages {
 	max-height: 100%;
 	padding: 0;
 	margin: 0;
-	font-family: JMH ava;
+	font-family: 'Baloo Thambi 2', cursive;
 	color: #597287;
 }
 
