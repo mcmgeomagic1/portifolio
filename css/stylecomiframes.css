@@ -3,6 +3,18 @@
 	padding: 0px;
 }
 @import url('href="https://www.1001fonts.com/jmh-ava-font.html?text=Maxion+Kiddies');
+@font-face {
+font-family:"JMHAva-Regular";
+src:url("JMH_Ava_regular.eot?") 
+format("eot"),
+url("JMH_Ava_regular.woff") 
+format("woff"),
+url("JMH_Ava_regular.ttf") 
+format("truetype"),
+url("JMH_Ava_regular.svg#JMHAva-Regular") 
+format("svg");font-weight:normal;font-style:normal;
+}
+
 body,html {
 	background-color: #597287;
 	max-width: 100%;
