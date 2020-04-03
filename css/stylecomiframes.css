@@ -27,7 +27,7 @@ html#menuprof, body#menuprof {
 	max-height: 100%;
 	padding: 0;
 	margin: 0;
-	font-family: JMH ava;
+	font-family: 'jmh_avaregular';
 	color: #597287;
 	overflow-y: hidden;
 }
@@ -37,7 +37,7 @@ html#showprof, body#showprof {
 	max-height: 100%;
 	padding-top: 0px;
 	margin: 0;
-	font-family: JMH ava;
+	font-family: 'jmh_avaregular';
 	color: #597287;
 }
 html#whoamIpages, body#whoamIpages {
@@ -47,7 +47,7 @@ html#whoamIpages, body#whoamIpages {
 	max-height: 100%;
 	padding: 0;
 	margin: 0;
-	font-family: JMH ava;
+	font-family: 'jmh_avaregular';
 	color: #597287;
 }
 
