@@ -50,6 +50,13 @@ $('a[href*="#"]')
 
   $('.js--wp-3').waypoint(function(direction) {
       $('.js--wp-3').addClass('animated jackInTheBox');
-  }, {offset: '90%'});
+  },{
+    offset: '90%'
+  });
 
+  $('.js--wp-4').waypoint(function(direction) {
+      $('.js--wp-4').addClass('animated bounceInLeft');
+  },{
+    offset: '90%'
+  });
 });
