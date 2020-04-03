@@ -1,6 +1,7 @@
 *{
 	margin: 0px;
 	padding: 0px;
+	font-family: 'jmh_avaregular';
 }
 
 @font-face {
@@ -17,7 +18,7 @@ body,html {
 	max-height: 100%;
 	padding: 0;
 	margin: 0;
-	font-family: jmh_avaregular;
+	font-family: 'jmh_avaregular';
 	color: #597287;
 	overflow-x: hidden;
 }
@@ -27,7 +28,7 @@ html#menuprof, body#menuprof {
 	max-height: 100%;
 	padding: 0;
 	margin: 0;
-	font-family: jmh_avaregular;
+	font-family: 'jmh_avaregular';
 	color: #597287;
 	overflow-y: hidden;
 }
@@ -37,7 +38,7 @@ html#showprof, body#showprof {
 	max-height: 100%;
 	padding-top: 0px;
 	margin: 0;
-	font-family: jmh_avaregular;
+	font-family: 'jmh_avaregular';
 	color: #597287;
 }
 html#whoamIpages, body#whoamIpages {
@@ -47,7 +48,7 @@ html#whoamIpages, body#whoamIpages {
 	max-height: 100%;
 	padding: 0;
 	margin: 0;
-	font-family: jmh_avaregular;
+	font-family:'jmh_avaregular';
 	color: #597287;
 }
 
