@@ -51,7 +51,6 @@ html#whoamIpages, body#whoamIpages {
 	font-family:'jmh_avaregular';
 	color: #597287;
 }
-
 section#tudo {
 	width: 100%;
 	margin: auto;
@@ -72,18 +71,23 @@ header{
 
 
 div#slogan{
+    text-align: justify;
 	border: 0px solid black;
 	height: 70px;
-	margin-bottom: 60px;
+	margin-bottom: 30px;
+	padding-top: 50px;
+	padding-left: 80px;
+	padding-right: 80px;]
 }
 div#slogan img {
- 
-	width:50px;
-	height: 50px;
+    margin-top: -20px;
+	width:120px;
+	height: 90px;
+
 }
 
 nav#navegation ul{
-	margin: 30px 80px 0px 30px;
+	
 	float: right;
 }
 
